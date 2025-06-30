@@ -13,5 +13,4 @@ Script para baixar vídeos do youtube.
 MIT
 
 # Doações
-- https://streamelements.com/thenasc/tip
-
+- https://bit.ly/thenascxstp
